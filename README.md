@@ -1,2 +1,2 @@
-# Sloidworks-Project
+# Solidworks-Project
 Assembly Drawing
